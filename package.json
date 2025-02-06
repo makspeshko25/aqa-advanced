@@ -1,0 +1,14 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "my awesome project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./nodeBasics/index.js"
+  },
+  "author": "Maks",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
