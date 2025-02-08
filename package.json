@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "my awesome project",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "node ./nodeBasics/index.js"
   },
