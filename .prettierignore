@@ -1,0 +1,21 @@
+# dependency folders and cached files
+node_modules
+dist
+build
+coverage
+.cache
+.next
+out
+
+# Logs and temporary files
+logs
+*.log
+
+# Specific IDE files
+.vscode
+
+# Media files
+*.png
+*.jpg
+*.gif
+*.svg
