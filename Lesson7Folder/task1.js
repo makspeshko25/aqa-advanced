@@ -1,17 +1,17 @@
-function handleName(num,handleEven,handleOdd){
-if(num=num%2===0){
+function handleName(num, handleEven, handleOdd) {
+  if ((num = num % 2 === 0)) {
     handleEven();
-} else{
+  } else {
     handleOdd();
-}
-}
-
-function handleEven(){
-    console.log("Your number is even");
+  }
 }
 
-function handleOdd(){
-    console.log("Your number is odd");
+function handleEven() {
+  console.log('Your number is even');
 }
 
-handleName(8,handleEven,handleOdd);
+function handleOdd() {
+  console.log('Your number is odd');
+}
+
+handleName(8, handleEven, handleOdd);

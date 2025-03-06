@@ -4,4 +4,4 @@ let bl = true;
 let nll = null;
 let unknown = undefined;
 
-console.log(str,num,bl,nll,unknown)
+console.log(str, num, bl, nll, unknown);
