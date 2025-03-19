@@ -14,8 +14,8 @@
 // console.log(sqrCalculation(5,10))
 
 // Arrow function expression
-const sqrCalculation=(width,height)=>{
-    const sqr=width*height
-    return sqr
-}
-console.log(sqrCalculation(5,10))
+const sqrCalculation = (width, height) => {
+  const sqr = width * height;
+  return sqr;
+};
+console.log(sqrCalculation(5, 10));
